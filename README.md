@@ -7,40 +7,42 @@ To create virtual environment use -
 - python -m venv env
 
 To activate virtual environment use - 
-.\env\Scripts\activate
+ - .\env\Scripts\activate
 '''
 
 
 '''
 write your requirements in requirements.txt file and run -
-pip install -r requirements.txt
+- pip install -r requirements.txt
 '''
 
 '''
 To check all the libraries use - 
-pip list
+- pip list
 '''
 
 ''' 
 If you have any issues with kernels for jupyter notebook use -
-pip install ipykernel
+- pip install ipykernel
 '''
 
 
 '''
-git init # If you are not cloning
+For Github
 
-git add .
+- git init # If you are not cloning
 
-git commit -m "Message" # Message is mandatory(type any message you want)
+- git add .
 
-git remote add origin https:/(your git hub repo link)
+- git commit -m "Message" # Message is mandatory(type any message you want)
 
-git push -f origin main 
+- git remote add origin https:/(your git hub repo link)
 
-git status # to check the current status
+- git push -f origin main 
 
-git config --global
+- git status # to check the current status
+
+- git config --global
 
 '''
 
