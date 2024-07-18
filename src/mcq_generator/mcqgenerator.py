@@ -64,7 +64,4 @@ generate_evaluate_chain=SequentialChain(chains=[quiz_chain, review_chain], input
                                         output_variables=["quiz", "review"], verbose=True,)
 
 
-PATH = r"C:\Users\Gaurav\OneDrive\Desktop\Projects\LLM Projects\MCQ Generator\MCQ-Generator-Using-LLM\data.txt"
 
-with open(PATH, 'r', encoding='utf-8') as file:
-    TEXT = file.read()
