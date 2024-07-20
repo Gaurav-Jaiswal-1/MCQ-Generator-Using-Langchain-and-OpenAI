@@ -1,4 +1,4 @@
-# MCQ-Generator-Using-LLM
+# MCQ-Generator-Using-Langchain
 
 '''
 To create virtual environment use - 
