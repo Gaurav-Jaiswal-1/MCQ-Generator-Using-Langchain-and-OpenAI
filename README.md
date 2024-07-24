@@ -1,6 +1,3 @@
-# MCQ-Generator-Using-Langchain and OpenAI
-
-
 # MCQ Generator Using OpenAI and LangChain
 
 Welcome to the **MCQ Generator** repository! This project harnesses the capabilities of OpenAI's language models and the LangChain framework to generate multiple-choice questions (MCQs) from any topic provided as a PDF file. The tool is designed to assist educators, students, and content creators by automating the creation of MCQs, ensuring a wide range of subjects and difficulty levels can be catered to.
@@ -58,7 +55,6 @@ Special thanks to OpenAI for their language models and to the LangChain contribu
 
 ---
 
-This description provides a comprehensive overview of the project, including features, setup instructions, and contribution guidelines. You can adjust the specifics as needed to fit your project's details.
 
 '''
 To create virtual environment use - 
