@@ -57,12 +57,12 @@ Special thanks to OpenAI for their language models and to the LangChain contribu
 
 
 '''
-To create virtual environment use - 
+**To create virtual environment use**  
 - conda create -p env python=3.11.4 -y
                 or
 - python -m venv env
 
-To activate virtual environment use - 
+To activate virtual environment use  
  - .\env\Scripts\activate
 '''
 
