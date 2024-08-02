@@ -16,7 +16,7 @@ Follow these steps to get started with the MCQ Generator:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/mcq-generator.git
+   git clone https://github.com/Gaurav-Jaiswal-1/MCQ-Generator-Using-Langchain-and-OpenAI.git
    cd mcq-generator
    ```
 
