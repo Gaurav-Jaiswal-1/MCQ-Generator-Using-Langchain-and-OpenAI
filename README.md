@@ -86,11 +86,17 @@ If you have any issues with kernels for jupyter notebook use -
 '''
 For Github
 
+- git clone (github repo link to clone ) 
+
 - git init # If you are not cloning
+
+- git config --global ( Give your name and email)
 
 - git add .
 
 - git commit -m "Message" # Message is mandatory(type any message you want)
+
+- git branch -M main
 
 - git remote add origin https:/(your git hub repo link)
 
@@ -98,7 +104,6 @@ For Github
 
 - git status # to check the current status
 
-- git config --global
 
 '''
 
