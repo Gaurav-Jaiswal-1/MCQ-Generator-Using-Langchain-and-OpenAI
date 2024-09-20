@@ -90,7 +90,9 @@ For Github
 
 - git init # If you are not cloning
 
-- git config --global ( Give your name and email)
+- git config --global user.name "Your Name"
+
+- git config --global user.email "you@example.com"
 
 - git add .
 
