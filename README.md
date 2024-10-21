@@ -107,7 +107,7 @@ For Github
 - git status # to check the current status
 
   To remove directory from github repo
-  - `git rm -r --cached node_modules`
+  - `git rm -r --cached (file or directory name that you want to remove)`
 
 
 
