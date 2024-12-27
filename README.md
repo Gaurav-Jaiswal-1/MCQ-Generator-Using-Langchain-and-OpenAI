@@ -116,7 +116,7 @@ For Github
 
 # **If you're having large files issue to push on github use -**
 
-bash```
+```
 - git checkout --orphan latest_branch
 - git add -A
 - git commit -am "Commit Message"
